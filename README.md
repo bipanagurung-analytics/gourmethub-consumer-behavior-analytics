@@ -114,19 +114,62 @@ Key outcomes include:
 
 ---
 
-# Project Visualizations
+# Key Business Insights
 
-> *(Replace these placeholders with your project screenshots.)*
+## 1. Revenue Concentration
 
-| Visualization | Description |
-|---------------|-------------|
-| Workflow | End-to-end analytics pipeline |
-| Customer Segments | K-Means clustering results |
-| Correlation Heatmap | Variable relationships |
-| Time Series Trend | Catalog engagement analysis |
-| Model Comparison | Performance comparison |
+A relatively small group of customers contributes a disproportionately large share of total revenue, highlighting the importance of customer retention and personalized marketing.
+
+<img width="1206" height="708" alt="Rplot56" src="https://github.com/user-attachments/assets/50f34164-8db4-4824-9b74-c7f2eba2bc95" />
 
 ---
+
+## 2. Customer Lifecycle Analysis
+
+Customer spending increases substantially as households progress through different lifecycle stages, identifying the highest-value customer segments.
+
+<img width="1167" height="708" alt="Rplot48" src="https://github.com/user-attachments/assets/3651dc04-8398-40f7-9bae-522cca39beaf" />
+
+---
+
+## 3. High-Value Customer Segmentation
+
+The likelihood of becoming a high-value customer varies significantly across lifecycle stages, providing actionable insights for targeted marketing campaigns.
+
+<img width="1167" height="708" alt="Rplot53" src="https://github.com/user-attachments/assets/f54947ae-6c78-49ab-8d93-5d2c8a9b3574" />
+
+---
+
+## 5. Correlation Analysis
+
+Correlation analysis reveals the strongest positive and negative relationships among customer demographics, purchasing behavior, and campaign performance.
+
+<img width="1795" height="708" alt="Rplot57" src="https://github.com/user-attachments/assets/a1f6980c-77a0-450f-bb39-794e3043a2f1" />
+
+
+---
+
+## 6. Customer Segmentation (K-Means)
+
+K-Means clustering grouped customers into distinct behavioral segments, enabling more effective customer profiling and personalized marketing strategies.
+
+<img width="1063" height="708" alt="Rplot59" src="https://github.com/user-attachments/assets/06cdc288-a220-4324-a303-11f1d9c9b93f" />
+
+---
+
+## 7. Decision Tree Classification
+
+A decision tree model was developed to classify high-value customers using purchasing behavior and demographic characteristics, providing an interpretable predictive model.
+
+<img width="1063" height="708" alt="Rplot60" src="https://github.com/user-attachments/assets/ce38f4fe-2e6b-481e-977f-498d33d5a41f" />
+
+---
+
+## 8. Customer Engagement Analysis
+
+Customers with lower website visit frequency demonstrated substantially higher spending behavior, revealing an important behavioral insight for marketing optimization.
+
+<img width="1167" height="708" alt="Rplot52" src="https://github.com/user-attachments/assets/177df5f4-201c-45f7-adec-911c0c05c241" />
 
 # Business Recommendations
 
